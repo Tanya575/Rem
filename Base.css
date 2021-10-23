@@ -1623,3 +1623,27 @@
 .bd-addon-views .bd-view-button:hover {
   background-color: var(--ne-dark);
 }
+/* media */
+.mediaBarPreview-1jfyFs {
+  background-color: var(--ne-night);
+}
+.fakeEdges-27pgtp:after {
+  background-color: rgb(var(--ne-blue), 0.7) !important;
+}
+.mediaBarGrabber-1FqnbN {
+  background-color: rgb(var(--ne-blue), 0.9) !important;
+}
+.mediaBarProgress-1xaPtl,
+.fakeEdges-27pgtp:before {
+  background-color: rgb(var(--ne-blue), 0.7);
+}
+.buffer-26XPkd {
+  background-color: var(--ne-dark);
+}
+.metadataIcon-2FyCKU,
+.controlIcon-3cRbti {
+  color: rgb(var(--ne-blue), 0.9);
+}
+.mediaBarWrapper-3D7r67, .mediaBarWrapper-3D7r67:after, .mediaBarWrapper-3D7r67:before {
+  background-color: transparent;
+}
