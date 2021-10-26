@@ -1347,7 +1347,12 @@
 .channelTextArea-2VhZ6z > * {
     background: transparent;
 }
-
+.giftCodeContainer-1fbmAS .invalidPoopHorizontal-3Dfy7T,
+.giftCodeContainer-1fbmAS .description-1RsfgZ,
+ .theme-dark .tile-2OwFgW {
+    background-color: var(--ne-dark) !important;
+    box-shadow: none;
+}
 .form-2fGMdU:before {
   display: none;
 }
